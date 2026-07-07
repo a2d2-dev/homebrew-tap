@@ -1,0 +1,22 @@
+{
+    "version": "1.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/a2d2-dev/claudecm/releases/download/v1.1.0/claudecm_1.1.0_windows_amd64.zip",
+            "bin": [
+                "claudecm.exe"
+            ],
+            "hash": "9725aa3df9e69f8c86b57eb08897b65998d077079aebd014bc75fade3ecdcccb"
+        },
+        "arm64": {
+            "url": "https://github.com/a2d2-dev/claudecm/releases/download/v1.1.0/claudecm_1.1.0_windows_arm64.zip",
+            "bin": [
+                "claudecm.exe"
+            ],
+            "hash": "8e8692c3aae83b4f43c52d4dcbd59803877cfbe21adcd8d38abc3753fb953da9"
+        }
+    },
+    "homepage": "https://github.com/a2d2-dev/claudecm",
+    "license": "MIT",
+    "description": "One-command switch between Claude Code and Codex CLI configurations."
+}
